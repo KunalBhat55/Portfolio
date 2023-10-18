@@ -1,4 +1,4 @@
-**My Portfolio**
+## My Portfolio
 
 Welcome to my GitHub portfolio repository! Here, you'll find a collection of my projects and a little bit about me. 
 
